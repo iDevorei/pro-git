@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "webpack": "^5.76.1"
+  },
+  "name": "about-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDevorei/pro-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iDevorei/pro-git/issues"
+  },
+  "homepage": "https://github.com/iDevorei/pro-git#readme",
+  "description": ""
+}
